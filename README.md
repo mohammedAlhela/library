@@ -1,0 +1,2 @@
+# library
+Odoo Library module
